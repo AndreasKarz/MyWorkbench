@@ -1,0 +1,723 @@
+[
+	{
+		"_id": "c412a8a0c19e2c92bc7497f6cc7d5ede",
+		"url": "https://dotnetfiddle.net/",
+		"title": ".NET Fiddle",
+		"description": ".NET Playground",
+		"tags": ["Playground", "BackEnd"],
+		"icon": "https://dotnetfiddle.net/favicon.ico",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "570cf6c9eb34e635d0004790407b475a",
+		"url": "https://color.adobe.com/de/create/color-wheel",
+		"title": "Adobe Color Wheel",
+		"description": "Create color schemas at your fingertip.",
+		"tags": ["Tools", "FrontEnd", "Web", "Print"],
+		"icon": "https://color.adobe.com/favicon.ico",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "64b431f58397a1c6ebf26425cb51ab32",
+		"title": "Appshots",
+		"description": "No great app is made without inspirations",
+		"tags": ["FrontEnd", "Design", "Inspiration", "Mobile"],
+		"icon": "https://appshots.design/images/carousel-image-1.svg",
+		"url": "https://appshots.design/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "2be80e62988c678e7c4b7a401c6756d5",
+		"title": "Awwwards",
+		"description": "Creative site of the day",
+		"tags": ["FrontEnd", "Design", "Inspiration", "Web"],
+		"icon": "https://assets.awwwards.com/assets/images/pages/about-certificates/awwwards.jpg",
+		"url": "https://www.awwwards.com/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "67b1fb83d4c253487597d570370592c1",
+		"title": "Best Website Gallery",
+		"description": "Gallery of top voted Websites with filters to colors and business etc.",
+		"tags": ["FrontEnd", "Design", "Inspiration", "Web"],
+		"icon": "https://bestwebsite.gallery/assets/images/bitmap/favicon/favicon-128.png",
+		"url": "https://bestwebsite.gallery/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "f0ce98603dd9860d4f4e78db0e4759c4",
+		"url": "https://www.blindtextgenerator.de/",
+		"title": "Blindtext-Generator",
+		"description": "Here you can comfortably create dummy texts for layout tasks.",
+		"tags": ["Tools", "FrontEnd", "Web"],
+		"icon": "https://www.blindtextgenerator.de/favicon.ico",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "5011f6a7f288c0725805a3561fc380ce",
+		"title": "CODEPEN",
+		"description": "CodePen is a social development environment for front-end designers and developers.",
+		"tags": ["Tools", "Playground", "FrontEnd"],
+		"icon": "https://static.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico",
+		"url": "https://codepen.io/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "41295c2bff47a7c3bc07c616f820ab79",
+		"url": "https://www.cssfontstack.com/Segoe-UI",
+		"title": "CSS FontStack",
+		"description": "A complete collection of web safe CSS font stacks.",
+		"tags": ["Tools", "FrontEnd", "Web"],
+		"icon": "https://www.cssfontstack.com/favicon.ico",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "78053364092f54ba1d3a76fcc7acbe32",
+		"url": "https://lemats.net/tech/tools/goldener-schnitt-berechnen/",
+		"title": "Calculate golden section",
+		"description": "As the name say",
+		"tags": ["Tools", "Web", "Print"],
+		"icon": "none",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "7d52bbabb4cbf7330a604b1855b558eb",
+		"url": "https://www.canva.com/",
+		"title": "Canva",
+		"description": "Canva is a graphic design platform for creating visual content.",
+		"tags": ["Tools", "FrontEnd", "Print", "Design", "Organization", "Web"],
+		"icon": "https://www.canva.com/favicon.ico",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "a7a61b6e1c7e2d269e0a95d2f68c3c32",
+		"url": "https://carrd.co/build",
+		"title": "Carrd",
+		"description": "Simple, free, fully responsive one-page sites for pretty much anything.",
+		"tags": ["Ressources", "FrontEnd", "Inspiration"],
+		"icon": "https://carrd.co/assets/images/icons/favicon.ico",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "9028de016334327e4b460a431c2a94bb",
+		"url": "https://chat.openai.com/",
+		"title": "ChatGPT",
+		"description": "AI for everything",
+		"tags": ["Tools", "Helpers"],
+		"icon": "https://chat.openai.com/favicon.ico",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "4f70a7575fd77e0df1c609ed08c35de5",
+		"url": "https://cleanup.pictures/",
+		"title": "Cleanup.pictures",
+		"description": "Remove any unwanted things from your pictures",
+		"tags": ["Tools", "Images"],
+		"icon": "https://cleanup.pictures/favicon.ico",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "7d5789fbd3d042261599193217e27677",
+		"url": "https://mycolor.space/",
+		"title": "ColorSpace",
+		"description": "Never waste Hours on finding the perfect Color Palette again.",
+		"tags": ["Tools", "FrontEnd", "Web", "Print", "Design"],
+		"icon": "https://mycolor.space/img/color-space-logo.png",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "c0e589fcec4519c5314933358b0caaad",
+		"url": "https://coolors.co/",
+		"title": "Coolors",
+		"description": "Create the perfect palette or get inspired by thousands of beautiful color schemes.",
+		"tags": ["Tools", "FrontEnd", "Web", "Print"],
+		"icon": "https://coolors.co/assets/img/og_image.png",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "b94a9689f878d325d36b3f373f2d0453",
+		"url": "https://freeformatter.com/cron-expression-generator-quartz.html#cronconverttotext",
+		"title": "Cron Expression Generator",
+		"description": "Generate a quartz cron expression with an easy to use online interface. Convert a cron expression into a readable text that clearly explains when it will execute, and visualize the next execution dates of your cron expression.",
+		"tags": ["Tools", "BackEnd"],
+		"icon": "https://freeformatter.com/favicon.ico",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "0a79a9095a902189042a24abc91f6c19",
+		"url": "https://openai.com/dall-e-2/",
+		"title": "DALL·E 2",
+		"description": "DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.",
+		"tags": ["Tools", "Services", "Design"],
+		"icon": "https://openai.com/content/images/size/w256h256/2020/09/icon-1.png",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "2c70beeeef9740a8030cdc00e90a1264",
+		"title": "DESIGN VAULT",
+		"description": "UI patterns & design inspiration from real products",
+		"tags": ["FrontEnd", "Design", "Inspiration", "Mobile"],
+		"icon": "https://designvault.io/wp-content/themes/designvault/assets/img/designvault-logo.svg",
+		"url": "https://designvault.io/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "52fc64669aa4f4abad63cb9f004cda20",
+		"title": "Dark Mode Design",
+		"description": "Dark Mode Design is an inspiration resource, showcasing beautifully designed websites that are either exclusively in dark mode, or have the ability to switch.",
+		"tags": ["FrontEnd", "Design", "Inspiration", "Web"],
+		"icon": "https://uploads-ssl.webflow.com/5ea7fc450fe2ee12b924f695/5eb142f8c8c08b890d3dab14_Logo_Large.png",
+		"url": "https://www.darkmodedesign.com/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "62259f2eeed0389777652cc99f70aaed",
+		"title": "DeepL Translator",
+		"description": "Fast, accurate and reliable translations",
+		"tags": ["Tools", "Helpers"],
+		"icon": "https://static.deepl.com/img/logo/DeepL_Logo_darkBlue_v2.svg",
+		"url": "https://www.deepl.com/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "53e40d1f85ea3db210bd98a9ab4686ed",
+		"url": "https://www.drawkit.com/",
+		"title": "DrawKit",
+		"description": "Beautiful, free illustrations. Updated weekly.",
+		"tags": ["Ressources", "Print", "Web"],
+		"icon": "https://www.drawkit.com/favicon.ico",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "4628b051ec74095257a37da978d74eb7",
+		"title": "Enhance voice recordings",
+		"description": "Speech enhancement makes voice recordings sound as if they were recorded in a professional studio.",
+		"tags": ["Video", "Audio", "Tools"],
+		"icon": "https://podcast.adobe.com/favicon.ico",
+		"url": "https://podcast.adobe.com/enhance",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "d1ba0785282358749d238b0c236d68ff",
+		"url": "https://www.favicon-generator.org/",
+		"title": "FavIcon Generator",
+		"description": "Perfect FavIcon & AppIcon Generator. Generates also the code you will need.",
+		"tags": ["Tools", "FrontEnd", "Web"],
+		"icon": "https://www.favicon-generator.org/favicon.ico",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "b94ee834d11f73fefa100f305da4c01a",
+		"title": "Figma",
+		"description": "Figma is a collaborative design tool for creating web, mobile, UI and UX designs",
+		"tags": ["Tools", "Design"],
+		"icon": "https://static.figma.com/app/icon/1/favicon.png",
+		"url": "https://www.figma.com/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "5c9c2d4304458c166a88115bb306246c",
+		"url": "https://console.firebase.google.com",
+		"title": "Firebase",
+		"description": "Firebase is an app development platform that helps you build and grow apps and games users love. ",
+		"tags": ["Backend", "Service"],
+		"icon": "https://www.gstatic.com/devrel-devsite/prod/v8630d525d2c63b97010320bed1b0ce38685d514a45414a53dd4326ac0a263ebf/firebase/images/favicon.png",
+		"help": [
+			{
+				"title": "Developer documentation for Firebase",
+				"url": "https://firebase.google.com/docs"
+			},
+			{
+				"title": "Firebase YouTube Channel",
+				"url": "https://www.youtube.com/@Firebase"
+			}
+		],
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "512f601695a4a773885fc99cb04a2bde",
+		"title": "GitNation",
+		"description": "Learning Portal",
+		"tags": ["Education"],
+		"icon": "https://gitnation.org/img/favicon.png",
+		"url": "https://portal.gitnation.org/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "2edac86160ff21c13282e3a0b1c0c269",
+		"url": "https://ui.glass/generator/",
+		"title": "Glass UI",
+		"description": "Get started with this free CSS generator based on the glassmorphism design specifications to quickly design and customize the style properties.",
+		"tags": ["Tools", "FrontEnd"],
+		"icon": "https://ui.glass/generator/static/og-image-17a128ad929c938ff99ce39e7d8d92bf.png",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "a0cfcd5734bc51b5109aa74db414dbf3",
+		"title": "Godly",
+		"description": "Astronomically good web design inspiration from all over the web",
+		"tags": ["FrontEnd", "Design", "Inspiration", "Web"],
+		"icon": "https://godly.website/favicon.png",
+		"url": "https://godly.website/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "dad1f417ad385402cd6c9847482ed88d",
+		"url": "https://iconify.design/",
+		"title": "Iconify",
+		"description": "All popular icon sets, one framework.",
+		"tags": ["Ressources", "FrontEnd", "Print"],
+		"icon": "https://storage.googleapis.com/rytr-me/public/image/logo.svg",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "2b29be3a9111cc5cc7b2cf88ae80710e",
+		"url": "https://jsoncrack.com/editor",
+		"title": "JSON Valid",
+		"description": "Visualize the JSON object",
+		"tags": ["Tools", "BackEnd"],
+		"icon": "https://jsoncrack.com/favicon.ico",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "74f20036ce6150ad440394fc802d0ae2",
+		"url": "https://jwt.io/",
+		"title": "JWT.IO",
+		"description": "JWT.IO allows you to decode, verify and generate JWT.",
+		"tags": ["Tools", "BackEnd"],
+		"icon": "https://jwt.io/img/pic_logo.svg",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "e83a79aa95bbb3f59dcf35f2be3fce46",
+		"url": "https://www.joshwcomeau.com/operator-lookup/",
+		"title": "JavaScript Operator Lookup",
+		"description": "Enter a JavaScript operator to learn more about it:",
+		"tags": ["Tools", "FrontEnd", "JavaScript"],
+		"icon": "https://www.joshwcomeau.com/images/og-operator-lookup.png",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "c04d3853bd576bee2c981775a525dcdc",
+		"title": "Land-book",
+		"description": "Find the best hand-picked website design inspiration. We’re a curated web design gallery for Creatives, updated daily.",
+		"tags": ["FrontEnd", "Design", "Inspiration", "Web"],
+		"icon": "https://land-book.com/images/og-image.png",
+		"url": "https://land-book.com/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "feabe503d2c8779664b935abf94afe30",
+		"title": "Landingfolio",
+		"description": "The Best Landing Page Design Inspiration, Templates and More for Figma and Tailwind etc.",
+		"tags": ["FrontEnd", "Design", "Inspiration", "Web"],
+		"icon": "https://www.landingfolio.com/favicon.ico",
+		"url": "https://www.landingfolio.com/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "a4e5ff71d9b17cc20b1cd996a65b93a2",
+		"title": "Landings",
+		"description": "Discover hundreds of landing pages created by leading companies for your design inspiration.",
+		"tags": ["FrontEnd", "Design", "Inspiration", "Web"],
+		"icon": "https://landings.dev/favicon.ico",
+		"url": "https://landings.dev/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "59b69fe27df439d049fa39f57216ee50",
+		"title": "Lapa Ninja",
+		"description": "Lapa Ninja is a gallery featuring the best 5423 landing page examples, free books for designers and free UI kits from around the web.",
+		"tags": ["FrontEnd", "Design", "Inspiration", "Web"],
+		"icon": "https://www.lapa.ninja/assets/social/fb-share.jpg",
+		"url": "https://www.lapa.ninja/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "7fdb87cd6f2ec518bb345506f922214e",
+		"url": "https://lumalabs.ai/",
+		"title": "LumaLabs",
+		"description": "Create 3d assets from images",
+		"tags": ["Tools", "FrontEnd"],
+		"icon": "https://cdn-luma.com/public/lumalabs.ai/images/logo.png",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "19f4b2ac959387e0983f4341638a1ee6",
+		"url": "https://m3o.com/",
+		"title": "M3O",
+		"description": "Universal Micro Services",
+		"tags": ["Tools", "BackEnd", "Services"],
+		"icon": "https://m3o.com/logo-white.png",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "d072828c795548763bb7507a274b5ee7",
+		"title": "Microsoft To Do",
+		"description": "To Do gives you focus, work becomes ease.",
+		"tags": ["Tools", "Organization"],
+		"icon": "https://res-1.cdn.office.net/todo/727083_2.85.4/touch-icon-152x152.png",
+		"url": "https://to-do.live.com/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "741421b8f5569fd59879fd623304239e",
+		"title": "Milanote",
+		"description": "Milanote is an easy-to-use tool to organize your ideas and projects into visual boards. Add notes, images, links and files, organize them visually and share ",
+		"tags": ["Tools", "Organization"],
+		"icon": "https://app.milanote.com/favicon.ico",
+		"url": "https://app.milanote.com/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "69be136cb25a9577629d1d178e282732",
+		"title": "MixKit",
+		"description": "Free assets for your next video project",
+		"tags": ["Video", "Assets"],
+		"icon": "https://assets.mixkit.co/build/favicons/apple-icon-72x72-65d8de4120b737fcccf4be0dd5e3604c7d0aa062eeb594876e4aac1f3aaf22a6.png",
+		"url": "https://mixkit.co/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "178e1475227a00575119fe599e80262b",
+		"url": "https://search.google.com/test/mobile-friendly",
+		"title": "Mobile-Friendly Test",
+		"description": "Is your web page mobile friendly?",
+		"tags": ["Tools", "FrontEnd", "Web"],
+		"icon": "https://ssl.gstatic.com/search-console/scfe/favicon_128-285675eb17c90afa0fe2fbe32dd956bf.png",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "ea65458e6d1aa258299583911014462e",
+		"title": "NEXT.JS",
+		"description": "The React Framework for Production",
+		"tags": ["FrontEnd", "React", "Next.JS", "KnowHow"],
+		"icon": "https://nextjs.org/static/favicon/apple-touch-icon.png",
+		"url": "https://nextjs.org/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "394ac0e0535ee97899102a5c6d1c9aad",
+		"url": "https://www.notion.so/product/ai",
+		"title": "Notion AI",
+		"description": "Leverage the limitless power of AI in any Notion page. Write faster, think bigger, and augment your creativity.",
+		"tags": ["Tools", "Texting"],
+		"icon": "https://www.notion.so/front-static/meta/ai.png",
+		"help": [
+			{
+				"title": "Introducing Notion AI",
+				"url": "https://www.youtube.com/watch?v=FElBbgnNtVA"
+			}
+		],
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "26b1f66cc240174384c2aec793bb96e8",
+		"url": "https://www.opendoodles.com/",
+		"title": "Open Doodles",
+		"description": "A Free Set of Open-Source Illustrations!",
+		"tags": ["Tools", "FrontEnd", "Web", "Print", "Design"],
+		"icon": "https://assets.website-files.com/5d5d5904f8a21bfe5ff69367/5da4cb5454976755fcac7930_seo-doodles.jpg",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "1bd0f88da158e354b4a243d08672074f",
+		"url": "https://png2svg.com/",
+		"title": "PNG to SVG",
+		"description": "Use this free online PNG to SVG converter to convert PNG files to SVG images, quickly and easily, without having to install any software.",
+		"tags": ["Tools", "Images"],
+		"icon": "https://png2svg.com/images/png2svg/icon.png",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "8dbe590efdd4c129c5f8a9547cdeea91",
+		"title": "Page Collective",
+		"description": "Spend a minute each week keeping up with the latest landing page design trends",
+		"tags": ["FrontEnd", "Design", "Inspiration", "Web"],
+		"icon": "https://pagecollective.com/static/website/images/logo.png",
+		"url": "https://pagecollective.com/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "d78b15b35d3f4f0eb68b73e581dd6f40",
+		"url": "https://www.pexels.com/",
+		"title": "Pexels",
+		"description": "The best free stock photos, royalty free images & videos shared by creators.",
+		"tags": ["Ressources", "Web", "Video", "Images"],
+		"icon": "https://www.pexels.com/assets/static/images/meta/pexels-icon.png",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "6999572838b48d57cfdb2633d6564c84",
+		"url": "https://www.qrcode-generator.ch/",
+		"title": "QR-Code Generator",
+		"description": "Best QR-Code Generator for free.",
+		"tags": ["Tools", "Web", "Print"],
+		"icon": "https://www.qrcode-generator.ch/wp-content/uploads/2021/06/cropped-QR-Code-Generator-Favicon-270x270.png",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "b43d3d5fcc719fa92adb09889247a5e1",
+		"title": "React Router",
+		"description": "React Router enables 'client side routing'.",
+		"tags": ["FrontEnd", "React", "KnowHow"],
+		"icon": "https://reactrouter.com/_brand/react-router-mark-color.svg",
+		"url": "https://reactrouter.com/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "24ad69a256a8cdc9bbd5181c72f8cfcb",
+		"title": "Refero",
+		"description": "The biggest collection of design references and components from great web applications",
+		"tags": ["FrontEnd", "Design", "Inspiration", "Web"],
+		"icon": "https://refero.design/favicon.ico",
+		"url": "https://refero.design/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "31760270da2559a247a64a82b5848975",
+		"title": "Regular Expressions 101",
+		"description": "Regular expression tester with syntax highlighting, explanation, cheat sheet for PHP/PCRE, Python, GO, JavaScript, Java, C#/.NET.",
+		"tags": ["FrontEnd", "BackEnd", "Tools"],
+		"icon": "https://regex101.com/static/assets/favicon.ico",
+		"url": "https://regex101.com/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "7f0206f16ab53ad66179f19c13804aa3",
+		"url": "https://responsively.app/",
+		"title": "Responsively",
+		"description": "Develop responsive web apps 5x faster!",
+		"tags": ["Tools", "FrontEnd"],
+		"icon": "https://responsively.app/assets/img/logo.svg",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "32fca2325ecca67b114b574e923a0a41",
+		"url": "https://rytr.me/",
+		"title": "Rytr",
+		"description": "Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds.",
+		"tags": ["Tools", "Helpers", "Texting"],
+		"icon": "https://storage.googleapis.com/rytr-me/public/image/logo.svg",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "c433ef2b4fc29d99d631a3bacbdd15f8",
+		"url": "https://www.sanity.io/",
+		"title": "Sanity IO",
+		"description": "Sanity is a customizable (Headless CMS) solution that treats content as data to power your digital business.",
+		"tags": ["Tools", "Services"],
+		"icon": "https://storage.googleapis.com/rytr-me/public/image/logo.svg",
+		"help": [
+			{
+				"title": "Sanity.io Crash Course",
+				"url": "https://www.youtube.com/watch?v=32RP-sG1njE"
+			}
+		],
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "4605232b9233297ae359885d809c0a81",
+		"title": "Screen Lane",
+		"description": "The latest mobile UI design inspirations",
+		"tags": ["FrontEnd", "Design", "Inspiration", "Mobile"],
+		"icon": "https://screenlane.com/static/website/images/logo.png",
+		"url": "https://screenlane.com/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "132ef222bf8b32b033559eccda57a6df",
+		"title": "Siteinspire",
+		"description": "Siteinspire is a showcase of the finest and creativst web and interactive design.",
+		"tags": ["FrontEnd", "Design", "Inspiration", "Web"],
+		"icon": "https://www.siteinspire.com/favicon.png",
+		"url": "https://www.siteinspire.com/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "a9316948081cdba30bf0ddffacdfb4ef",
+		"url": "https://app.storrito.com/",
+		"title": "Storrito",
+		"description": "Storrito is the only automation service on the market that nearly supports all Instagram stickers.",
+		"tags": ["Tools", "Web", "Services", "Organization"],
+		"icon": "https://app.storrito.com/favicon.ico",
+		"help": [
+			{
+				"title": "Getting Started with Storrito.com",
+				"url": "https://www.youtube.com/watch?v=7NLefVRzyIo"
+			}
+		],
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "808358ff7b63d346d42b9cce6ecd4766",
+		"title": "Tailbits",
+		"description": "Tailwind Components",
+		"tags": ["FrontEnd", "Design", "Inspiration", "Web", "Tailwind"],
+		"icon": "https://www.tailbits.com/_nuxt/img/logo-tailwind.0848576.svg",
+		"url": "https://www.tailbits.com/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "8eded1c8df489fb1c375c54b1ada0153",
+		"url": "https://tineye.com/",
+		"title": "TinEye",
+		"description": "Reverse Image Search",
+		"tags": ["Tools", "Web"],
+		"icon": "https://tineye.com/favicon.ico",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "c5918144b62244d179b78f0fd25656b8",
+		"url": "https://www.typescriptlang.org/play",
+		"title": "TypeScript Playground",
+		"description": "As the name say",
+		"tags": ["FrontEnd", "Playground", "TypeScript", "React"],
+		"icon": "https://www.typescriptlang.org/favicon-32x32.png",
+		"help": [
+			{
+				"title": "The TypeScript Handbook",
+				"url": "https://www.typescriptlang.org/docs/handbook/intro.html"
+			}
+		],
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "4713d5e00eed455cd4c3ca2277ab0021",
+		"title": "UUID Generator",
+		"description": "Online UUID Generator",
+		"tags": ["Tools", "Helpers"],
+		"icon": "https://www.uuidgenerator.net/favicon.ico",
+		"url": "https://www.uuidgenerator.net/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "36408a71ceea16aba614d96e83fce71b",
+		"title": "UXArchive",
+		"description": "UXArchive is the leading destination to find mobile UX trends from the world’s top mobile apps",
+		"tags": ["FrontEnd", "Design", "Inspiration", "Mobile"],
+		"icon": "https://uxarchive.com/favicon-32x32.png",
+		"url": "https://uxarchive.com/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "bf7902baadab588ce3eeaca858758bc0",
+		"url": "https://unsplash.com/",
+		"title": "Unsplash",
+		"description": "The internet’s source for visuals.",
+		"tags": ["Ressources", "Images"],
+		"icon": "https://unsplash.com/favicon.ico",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "9300b41b55bb61ac66e230c6c7b64f61",
+		"url": "https://utopia.app/",
+		"title": "Utopia",
+		"description": "A design and coding environment for React projects and components that runs in the browser",
+		"tags": ["React", "FrontEnd", "Playground"],
+		"icon": "https://utopia.app/favicon.ico",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "6d469643af70bf281a2b58954bf5091c",
+		"title": "Visual Paradigm",
+		"description": "Various tools for graphics and PDFs",
+		"tags": ["Tools", "Helpers"],
+		"icon": "https://online.visual-paradigm.com/favicon.ico",
+		"url": "https://online.visual-paradigm.com/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "fa159f55286b88e0e460f243a7354db3",
+		"url": "https://www.copy.ai/",
+		"title": "copy.ai",
+		"description": "Say ‘goodbye’ to the blank blogs & posts for good",
+		"tags": ["Tools", "Texting"],
+		"icon": "https://assets-global.website-files.com/628288c5cd3e8411b90a36a4/629a702fc90e970b2626cd52_fb-og.jpg",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "9a3a2bc71edb8348689884839b0edde6",
+		"url": "https://coverr.co/",
+		"title": "coverr",
+		"description": "Beautiful Free Stock Video Footage",
+		"tags": ["Ressources", "Video"],
+		"icon": "https://coverr.co/favicon.ico",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "d2b1b204e84071ef45062641d1f49075",
+		"url": "https://www.fiverr.com/",
+		"title": "fiverr",
+		"description": "Find the perfect freelance services for your business.",
+		"tags": ["Tools", "Organization"],
+		"icon": "https://www.fiverr.com/favicon.ico",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "f89a43e40931359b91d66ac4137c4bb3",
+		"url": "https://lumen5.com/",
+		"title": "lumen5",
+		"description": "Our online video creator makes it easy for anyone on your team to create engaging video content in minutes.",
+		"tags": ["Tools", "Video"],
+		"icon": "https://storage.googleapis.com/lumen5-site-images/favicon/favicon.ico",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "1a390026b0ec6098a0aab15b1042af1a",
+		"url": "https://www.mapcoordinates.net/",
+		"title": "mapcoordinates.net",
+		"description": "Find Google Maps coordinates - fast and easy!",
+		"tags": ["Services", "FrontEnd"],
+		"icon": "https://www.mapcoordinates.net/assets/web/images/favicon.ico",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "5f0a83a352ed68189fefed66a82f91f9",
+		"url": "https://ntfy.sh/",
+		"title": "ntfy",
+		"description": "Send push notifications to your phone or desktop via PUT/POST",
+		"tags": ["Services", "FrontEnd", "Web"],
+		"icon": "https://ntfy.sh/static/img/ntfy.png",
+		"help": [
+			{
+				"title": "Notify-send and Ntfy - 2 Free",
+				"url": "https://www.youtube.com/watch?v=bbdQXfReuG0"
+			}
+		],
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "cde9bd3a78bb947c5a161c8d9b47086a",
+		"url": "https://pixabay.com/",
+		"title": "pixabay",
+		"description": "Over 2.7 million+ high quality stock images, videos and music shared by our talented community.",
+		"tags": ["Ressources", "Web", "Video", "Images", "Music"],
+		"icon": "https://pixabay.com/favicon.ico",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "ec0361d61797734022fa7bf8df5c6fc4",
+		"title": "toggl",
+		"description": "Time tracking that's easy, powerful, and frictionless.",
+		"tags": ["Tools", "Organization"],
+		"icon": "https://track.toggl.com/favicon.ico",
+		"url": "https://toggl.com/",
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	},
+	{
+		"_id": "b6dd67c709c93a87bdafdb312726614a",
+		"url": "https://undraw.co/illustrations",
+		"title": "unDraw",
+		"description": "Open-source illustrations for any idea you can imagine and create.",
+		"tags": ["FrontEnd", "Print", "Ressources"],
+		"icon": "https://undraw.co/favicon.ico",
+		"help": [
+			{
+				"title": "Beautiful svg Illustrations for your Design Projects",
+				"url": "https://www.youtube.com/watch?v=ZkD59RKLLls"
+			}
+		],
+		"timestamp": "2023-01-24T07:25:49.626Z"
+	}
+]

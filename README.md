@@ -8,8 +8,8 @@ Starter template based on [Vite](https://vitejs.dev/guide/) with a small boilerp
 - React Router
 - React Query (comming soon)
 - Axios
-- TailwindCSS
-- Flowbite React
+- Material-UI
+- Recharts
 - Iconify
 
 ## [TODO]
@@ -27,6 +27,8 @@ Starter template based on [Vite](https://vitejs.dev/guide/) with a small boilerp
 > Shift + Alt + O => Organize imports
 
 ### Layout & Design
+
+[MUI Theme Creator](https://zenoo.github.io/mui-theme-creator/#)
 
 [CSS Layout Generator](https://layout.bradwoods.io/)
 
@@ -97,19 +99,6 @@ Starter template based on [Vite](https://vitejs.dev/guide/) with a small boilerp
 > Hooks are a new addition in React 16.8. They let you use state and other React features without writing a class.
 >
 > There is also a [Free React Hooks Course](https://courses.webdevsimplified.com/react-hooks-simplified)
-
-#### [TailwindCSS](https://tailwindcss.com/docs/utility-first)
-
-> A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.
-> A special section ist [theming](https://flowbite.com/docs/customize/theming/) your website.
-
-#### [Flowbite](https://flowbite.com/docs/getting-started/introduction/)
-
-> Get started with the most popular open-source library of interactive UI components built with the utility classes from Tailwind CSS.
-
-##### [Flowbite React](https://flowbite-react.com/)
-
-> Brings Flowbite to React with special React Components.
 
 #### [Iconify](https://icon-sets.iconify.design/)
 
