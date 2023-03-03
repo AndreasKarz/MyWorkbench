@@ -14,6 +14,8 @@ Starter template based on [Vite](https://vitejs.dev/guide/) with a small boilerp
 
 ## [TODO]
 
+- [ ] [React Firebase Tutorial | AUTH - CRUD - Image Upload](https://www.youtube.com/watch?v=D9W7AFeJ3kk)
+
 - [ ] Implement Firebase authentication [React Authentication Crash Course With Firebase And Routing](https://www.youtube.com/watch?v=PKwu15ldZ7k) and [YouTube search](https://www.youtube.com/results?search_query=react+firebase+authentication&sp=EgIIBQ%253D%253D)
 
 - [ ] Theming
