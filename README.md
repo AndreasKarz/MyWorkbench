@@ -16,6 +16,8 @@ Starter template based on [Vite](https://vitejs.dev/guide/) with a small boilerp
 
 - [ ] [React Firebase Tutorial | AUTH - CRUD - Image Upload](https://www.youtube.com/watch?v=D9W7AFeJ3kk)
 
+- [ ] [Firebase React Course For Beginners ](https://www.youtube.com/watch?v=2hR-uWjBAgw)
+
 - [ ] Implement Firebase authentication [React Authentication Crash Course With Firebase And Routing](https://www.youtube.com/watch?v=PKwu15ldZ7k) and [YouTube search](https://www.youtube.com/results?search_query=react+firebase+authentication&sp=EgIIBQ%253D%253D)
 
 - [ ] Theming
@@ -31,6 +33,8 @@ Starter template based on [Vite](https://vitejs.dev/guide/) with a small boilerp
 ### Layout & Design
 
 [MUI Theme Creator](https://zenoo.github.io/mui-theme-creator/#)
+
+[Material Icons](https://mui.com/material-ui/material-icons/?query=search)
 
 [CSS Layout Generator](https://layout.bradwoods.io/)
 

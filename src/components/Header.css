@@ -1,0 +1,12 @@
+header #toolbox {
+	display: 'flex';
+	align-items: 'center';
+}
+
+header #toolbox svg {
+	cursor: pointer;
+}
+
+header #toolbox svg:hover {
+	color: #d82034;
+}

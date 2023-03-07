@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;700;800&display=swap');
+
+:root {
+	--navWidth: 240px;
+	--headerHeight: 70px;
+}
+
+html,
+body {
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+}
+
+#container {
+	width: 100vw;
+	min-height: 100vh;
+	display: flex;
+}
+
+.content {
+	background-color: #fff;
+	flex-grow: 1;
+	margin-top: var(--headerHeight);
+	margin-left: var(--navWidth);
+}
+
+#nav {
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	width: var(--navWidth);
+	background-color: #fff;
+	z-index: 90;
+}
+
+header {
+	position: fixed;
+	top: 0;
+	left: var(--navWidth);
+	right: 0;
+	height: var(--headerHeight);
+	background-color: #fff;
+	z-index: 80;
+}
+
+h1 {
+	font-weight: 300;
+}
