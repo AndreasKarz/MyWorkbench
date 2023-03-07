@@ -1,14 +1,14 @@
-import DraftsIcon from '@mui/icons-material/Drafts';
-import InboxIcon from '@mui/icons-material/Inbox';
-import { Paper } from '@mui/material';
-import Divider from '@mui/material/Divider';
-import List from '@mui/material/List';
-import ListItem from '@mui/material/ListItem';
-import ListItemButton from '@mui/material/ListItemButton';
-import ListItemIcon from '@mui/material/ListItemIcon';
-import ListItemText from '@mui/material/ListItemText';
-import { Link as RouterLink, NavLink } from 'react-router-dom';
-import NavBarLink from './NavBarLink';
+import {
+	Paper,
+	Typography,
+	Divider,
+	List,
+	ListItem,
+	ListItemButton,
+	ListItemText,
+} from '@mui/material';
+import { NavListItems } from './NavListItems';
+import NavListLink from './NavListLink';
 
 export default function NavList() {
 	return (
@@ -17,29 +17,29 @@ export default function NavList() {
 			square={true}
 			elevation={16}
 		>
+			<Typography
+				variant='h5'
+				align='center'
+				mt={2}
+				sx={{
+					fontWeight: '200',
+					fontFamily: "'Open Sans', sans-serif",
+				}}
+			>
+				MyWorkbench
+			</Typography>
+			;
 			<List>
-				<ListItem disablePadding>
-					<ListItemButton
-						component={RouterLink}
-						to='/'
-					>
-						<ListItemIcon>
-							<InboxIcon />
-						</ListItemIcon>
-						<ListItemText primary='Inbox' />
-					</ListItemButton>
-				</ListItem>
-				<ListItem disablePadding>
-					<ListItemButton
-						component={RouterLink}
-						to='/services'
-					>
-						<ListItemIcon>
-							<DraftsIcon />
-						</ListItemIcon>
-						<ListItemText primary='Drafts' />
-					</ListItemButton>
-				</ListItem>
+				{NavListItems.map(({ to, icon, label }, idx: number) => {
+					return (
+						<NavListLink
+							key={idx.toString() + to}
+							to={to}
+							label={label}
+							icon={icon}
+						/>
+					);
+				})}
 			</List>
 			<Divider />
 			<List>
