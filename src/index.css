@@ -3,6 +3,7 @@
 :root {
 	--navWidth: 240px;
 	--headerHeight: 70px;
+	--primaryColor: #d82034;
 }
 
 html,
@@ -22,7 +23,7 @@ body {
 	background-color: #fff;
 	flex-grow: 1;
 	margin-top: var(--headerHeight);
-	margin-left: var(--navWidth);
+	margin-left: calc(var(--navWidth) + 40px);
 }
 
 #nav {
@@ -38,13 +39,19 @@ body {
 header {
 	position: fixed;
 	top: 0;
-	left: var(--navWidth);
+	left: calc(var(--navWidth) + 40px);
 	right: 0;
 	height: var(--headerHeight);
 	background-color: #fff;
 	z-index: 80;
 }
 
-h1 {
+h1,
+h2 {
 	font-weight: 300;
+}
+
+a.MuiButtonBase-root:hover,
+a.MuiButtonBase-root.active {
+	color: var(--primaryColor);
 }

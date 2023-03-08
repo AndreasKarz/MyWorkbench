@@ -1,7 +1,6 @@
-import { createTheme, Paper, ThemeProvider } from '@mui/material';
+import { createTheme, ThemeProvider } from '@mui/material';
 import { Route, Routes } from 'react-router-dom';
 import Header from './components/Header';
-import NavBarLink from './components/NavListLink';
 import NavList from './components/NavList';
 import * as Pages from './pages/_index';
 

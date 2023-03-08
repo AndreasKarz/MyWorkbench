@@ -12,10 +12,10 @@ import './Header.css';
 export default function Header() {
 	return (
 		<header>
-			<Container>
+			<Container maxWidth='xl'>
 				<div id='toolbox'>
 					<FormControl
-						sx={{ mt: 1, width: '35ch' }}
+						sx={{ mt: 1, width: '40ch' }}
 						variant='filled'
 					>
 						<InputLabel htmlFor='search-term'>Search</InputLabel>

@@ -12,7 +12,7 @@ export const NavListItems: LinkProps[] = [
 	},
 	{
 		to: '/swisslife',
-		icon: 'ic:baseline-waving-hand',
+		icon: 'carbon:building-insights-3',
 		label: 'Swiss Life',
 	},
 	{

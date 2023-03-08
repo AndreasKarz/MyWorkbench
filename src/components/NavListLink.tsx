@@ -1,7 +1,7 @@
 import { Icon } from '@iconify/react';
 import { ListItem, ListItemButton, ListItemIcon, ListItemText } from '@mui/material';
-import { Link as RouterLink } from 'react-router-dom';
-import { LinkProps } from '../types';
+import { NavLink as RouterLink } from 'react-router-dom';
+import { LinkProps } from './NavListItems';
 
 export default function NavListLink({ to, icon, label }: LinkProps) {
 	return (

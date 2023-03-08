@@ -1,12 +1,4 @@
-import {
-	Paper,
-	Typography,
-	Divider,
-	List,
-	ListItem,
-	ListItemButton,
-	ListItemText,
-} from '@mui/material';
+import { Divider, List, Paper, Typography } from '@mui/material';
 import { NavListItems } from './NavListItems';
 import NavListLink from './NavListLink';
 
@@ -43,19 +35,16 @@ export default function NavList() {
 			</List>
 			<Divider />
 			<List>
-				<ListItem disablePadding>
-					<ListItemButton>
-						<ListItemText primary='Trash' />
-					</ListItemButton>
-				</ListItem>
-				<ListItem disablePadding>
-					<ListItemButton
-						component='a'
-						href='#simple-list'
-					>
-						<ListItemText primary='Spam' />
-					</ListItemButton>
-				</ListItem>
+				<NavListLink
+					to='/settings'
+					label='Settings'
+					icon='material-symbols:settings-outline'
+				/>
+				<NavListLink
+					to='/about'
+					label='About'
+					icon='mdi:about-circle-outline'
+				/>
 			</List>
 		</Paper>
 	);
