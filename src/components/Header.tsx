@@ -9,13 +9,41 @@ import {
 } from '@mui/material';
 import './Header.css';
 
-export default function Header() {
+type HeaderProps = {
+	search: (term: string) => void;
+};
+
+type IconProps = {
+	prefix: string;
+	icon: string;
+	label: string;
+};
+
+const SearchIcons: IconProps[] = [
+	{
+		prefix: 'q',
+		icon: 'ooui:search',
+		label: 'MyWorkbench Search',
+	},
+	{
+		prefix: 'p',
+		icon: 'simple-icons:producthunt',
+		label: 'Phind Search',
+	},
+	{
+		prefix: 'i',
+		icon: 'simple-icons:iconify',
+		label: 'Search Icon',
+	},
+];
+
+export default function Header({ search }: HeaderProps) {
 	return (
 		<header>
 			<Container maxWidth='xl'>
 				<div id='toolbox'>
 					<FormControl
-						sx={{ mt: 1, width: '40ch' }}
+						sx={{ mt: 1, width: '60ch' }}
 						variant='filled'
 					>
 						<InputLabel htmlFor='search-term'>Search</InputLabel>
@@ -24,17 +52,27 @@ export default function Header() {
 							size='small'
 							endAdornment={
 								<InputAdornment position='end'>
-									<IconButton
-										aria-label='toggle password visibility'
-										//onClick={handleClickShowPassword}
-										edge='end'
-									>
-										<Icon
-											icon={'ic:outline-manage-search'}
-											height={30}
-											width={30}
-										/>
-									</IconButton>
+									{SearchIcons.map(function (i: IconProps) {
+										return (
+											<IconButton
+												title={i.label}
+												onClick={() =>
+													search(
+														i.prefix +
+															':' +
+															(document.getElementById('search-term') as HTMLInputElement).value
+													)
+												}
+												edge='end'
+											>
+												<Icon
+													icon={i.icon}
+													height={25}
+													width={25}
+												/>
+											</IconButton>
+										);
+									})}
 								</InputAdornment>
 							}
 						/>

@@ -14,13 +14,15 @@ Starter template based on [Vite](https://vitejs.dev/guide/) with a small boilerp
 
 ## [TODO]
 
-- [ ] [React Firebase Tutorial | AUTH - CRUD - Image Upload](https://www.youtube.com/watch?v=D9W7AFeJ3kk)
-
 - [ ] [Firebase React Course For Beginners ](https://www.youtube.com/watch?v=2hR-uWjBAgw)
+
+- [ ] [React Firebase Tutorial | AUTH - CRUD - Image Upload](https://www.youtube.com/watch?v=D9W7AFeJ3kk)
 
 - [ ] Implement Firebase authentication [React Authentication Crash Course With Firebase And Routing](https://www.youtube.com/watch?v=PKwu15ldZ7k) and [YouTube search](https://www.youtube.com/results?search_query=react+firebase+authentication&sp=EgIIBQ%253D%253D)
 
 - [ ] Theming
+
+- [ ] Use Code Splitting => https://www.youtube.com/watch?v=JU6sl_yyZqs
 
 ## Helpers
 
@@ -34,33 +36,11 @@ Starter template based on [Vite](https://vitejs.dev/guide/) with a small boilerp
 
 [MUI Theme Creator](https://zenoo.github.io/mui-theme-creator/#)
 
+[Iconify Icons](https://iconify.design/)
+
 [Material Icons](https://mui.com/material-ui/material-icons/?query=search)
 
 [CSS Layout Generator](https://layout.bradwoods.io/)
-
-[CSS Gradient](https://cssgradient.io/)
-
-[CSS Background Patterns](https://www.magicpattern.design/tools/css-backgrounds)
-
-[Responsively App](https://responsively.app/)
-
-### SEO
-
-#### Allgemein
-
-[Structured routes](https://developers.google.com/search/docs/crawling-indexing/url-structure)
-[Create and deploy sitemap](https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap)
-
-#### [HTML Meta tags](https://www.w3schools.com/tags/tag_meta.asp)
-
-[It's a simple guide to HTML](https://htmlhead.dev/)
-
-#### Structured data
-
-[Generate structured data](https://developers.google.com/search/docs/appearance/structured-data/generate-structured-data-with-javascript#use-google-tag-manager)
-[Schema markup generator](https://technicalseo.com/tools/schema-markup-generator/)
-[Markup helper](https://www.google.com/webmasters/markup-helper/)
-[Benefits](https://www.o8.agency/blog/using-structured-data-google-seo-dont-miss-out-benefits)
 
 ## Learn
 
@@ -75,6 +55,8 @@ Starter template based on [Vite](https://vitejs.dev/guide/) with a small boilerp
 [Web Dev Simplified (React)](https://www.youtube.com/@WebDevSimplified)
 
 [Kevin Powell (CSS)](https://www.youtube.com/@KevinPowell)
+
+[PedroTech (FrontEnd & Firebase)](https://www.youtube.com/@PedroTechnologies)
 
 ### Docs
 
@@ -111,81 +93,3 @@ Starter template based on [Vite](https://vitejs.dev/guide/) with a small boilerp
 > Over 100,000 open source vector icons as a React Component.
 
 #### [vite-plugin-html-env](https://github.com/lxs24sxl/vite-plugin-html-env)
-
-### Tips
-
-#### VS Code extensions
-
-##### [Tailwind CSS IntelliSense](https://braydoncoyer.dev/blog/enable-autocomplete-for-tailwind-css-in-vscode)
-
-##### React
-
-- [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
-- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
-### Manual installation
-
-```powershell
-yarn create vite my-app --template react-swc-ts
-
-cd my-app
-
-yarn add react-router-dom localforage match-sorter sort-by
-
-yarn add -D tailwindcss postcss autoprefixer
-
-yarn run tailwindcss init -p
-
-yarn add flowbite flowbite-react
-
-yarn add --dev @iconify/react
-
-yarn add usehooks-ts
-
-yarn add vite-plugin-html-env -D
-
-yarn add i18next
-
-yarn add i18next-browser-languagedetector
-
-yarn add i18next-http-backend
-
-yarn add react-i18next
-```
-
-#### src/index.css
-
-```css
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-```
-
-#### tailwind.config.cjs
-
-```js
-/** @type {import('tailwindcss').Config} */
-const colors = require('tailwindcss/colors');
-
-module.exports = {
-	content: ['./src/**/*.{js,jsx,ts,tsx}', 'node_modules/flowbite-react/**/*.{js,jsx,ts,tsx}'],
-	theme: {
-		colors: {
-			gray: colors.coolGray,
-			blue: colors.lightBlue,
-			red: colors.rose,
-			pink: colors.fuchsia,
-		},
-		extend: {},
-	},
-	plugins: [require('flowbite/plugin')],
-};
-```
-
-## Helpers
-
-# [TODO]
-
-- Use Code Splitting => https://www.youtube.com/watch?v=JU6sl_yyZqs
-- Add https://react-query-v3.tanstack.com/
-  - https://jsonplaceholder.typicode.com/posts

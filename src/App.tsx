@@ -1,5 +1,5 @@
 import { createTheme, ThemeProvider } from '@mui/material';
-import { Route, Routes } from 'react-router-dom';
+import { Route, Routes, useNavigate } from 'react-router-dom';
 import Header from './components/Header';
 import NavList from './components/NavList';
 import * as Pages from './pages/_index';
@@ -17,12 +17,30 @@ let theme = createTheme({
 });
 
 export default function App() {
+	const navigate = useNavigate();
+
+	const search = function (term: string) {
+		const s = term.split(':');
+		switch (s[0]) {
+			case 'i':
+				window.open('https://icon-sets.iconify.design/?query=' + s[1], '_blank');
+				break;
+			case 'p':
+				window.open('https://www.phind.com/search?q=' + s[1], '_blank');
+				break;
+
+			default:
+				navigate('/services?q=' + s[1]);
+				break;
+		}
+	};
+
 	return (
 		<ThemeProvider theme={theme}>
 			<div id='container'>
 				<NavList />
 				<div className='content'>
-					<Header />
+					<Header search={search} />
 					<Routes>
 						<Route
 							path='/'
